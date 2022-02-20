@@ -1,5 +1,5 @@
 # Titanic
-![Illustration titanic](https://github.com/MathieuVReine/Titanic/blob/master/Image/naufragetitanic.jpg)
+![Illustration titanic](https://raw.githubusercontent.com/MathieuVReine/Titanic/master/Image/naufragetitanic.jpg)
 ## Résumé
 Le naufrage du RMS Titanic est l'un des naufrages les plus tristement célèbres de l'histoire. Le 15 avril 1912, lors de son voyage inaugural, le Titanic a coulé après être entré en collision avec un iceberg, tuant 1502 des 2224 passagers et membres d'équipage. Cette tragédie sensationnelle a choqué la communauté internationale et a conduit à une meilleure réglementation de la sécurité des navires.
 
